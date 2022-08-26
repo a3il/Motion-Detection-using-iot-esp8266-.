@@ -1,4 +1,4 @@
-# Motion-Detection-using-iot-esp8266 NODEMCU![WhatsApp Image 2022-08-26 at 7 19 06 PM](https://user-images.githubusercontent.com/111580618/186918618-890be171-d146-4879-9d38-eaa3650d30d2.jpeg)
+# Motion-Detection-using-iot-esp8266 NODEMCU
 
 This project uses a PIR sesnor to detect motion using temperature changes which then sends a PWM signal to the Node MCU Which then sends data to adafruit cloud.We are using Adafruits Iot instead of Blynk platforms as it is paid and not open source.
 
